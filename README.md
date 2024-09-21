@@ -1,4 +1,4 @@
-# Python Marketing Campaign Analytics
+# Python Analytics for Marketing Insights
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -11,7 +11,7 @@
 
 ## Introduction
 
-Welcome to the "Python Marketing Campaign Analytics" project, where we delve into optimizing marketing campaigns and constructing a data-driven strategy. This project leverages the power of Python, specifically linear regression and correlation analysis, to unveil the most impactful marketing tactics influencing sales. The ultimate goal is to create a comprehensive ROI table for informed decision-making by management.
+Welcome to the "Python Analytics for Marketing Insights" project, where we delve into optimizing marketing campaigns and constructing a data-driven strategy. This project leverages the power of Python, specifically linear regression and correlation analysis, to unveil the most impactful marketing tactics influencing sales. The ultimate goal is to create a comprehensive ROI table for informed decision-making by management.
 
 ### Background of the Dataset
 
